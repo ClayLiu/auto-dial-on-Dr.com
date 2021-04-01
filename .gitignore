@@ -1,0 +1,8 @@
+*.exe
+*.txt
+*.spec
+\.vscode
+\build
+\dist
+Pipfile
+Pipfile.lock
