@@ -16,4 +16,4 @@ It will redial automatically.
 |2|password|
 |3|waitting time|
 
-* `waitting time` means the interval of two dial process, with unit is second.
+* `waitting time` means the interval of two dial processes, with unit is second.
